@@ -590,6 +590,7 @@ form,
   left: -15px;
 }
 
+
 /* dots jump */
 .dots-jump > div {
   -webkit-animation: dots-jump 1.2s infinite ease;
@@ -1513,7 +1514,7 @@ input::-moz-focus-inner {
   content: "";
   height: 100%;
   width: 0;
-  background-color: rgb(99, 8, 8);
+  background-color: rgb(58, 58, 58);
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   position: absolute;
