@@ -3680,4 +3680,33 @@ footer a:visited {
   padding-left: 9.6rem;
   padding-right: 2rem;
 }
+
+.fenrirBackground {
+  background-image: url('../images/Fenrir.png');
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 200px; 
+}
+
+.odinBackground {
+  background-image: url('../images/Odin.png');
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 200px; 
+}
+
+.thorBackground {
+  background-image: url('../images/Thor.png');
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 180px; 
+}
+
+.valkBackground {
+  background-image: url('../images/Valknut.png');
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 180px; 
+}
+
 /*# sourceMappingURL=main.css.map */
