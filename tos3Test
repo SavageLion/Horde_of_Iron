@@ -1,0 +1,2 @@
+aws s3 rm s3://test.infinityarc.net --recursive --profile s3u
+aws s3 cp ./ s3://test.infinityarc.net --recursive --profile s3u
